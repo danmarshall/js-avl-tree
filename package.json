@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/gwtw/js-avl-tree",
   "devDependencies": {
+    "@types/node": "^8.0.14",
     "ava": "^0.14.0",
     "coveralls": "^2.11.4",
     "documentation-readme": "^2.1.0",
